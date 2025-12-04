@@ -18,9 +18,9 @@ export default function Home() {
           <ul className="space-y-2 text-blue-800">
             
             
-            <li>✏️ I’m a tech enthusiast from Philadelphia and a graduate of Martin Luther King High School.</li>
+            <li>✏️ I am a tech enthusiast from Philadelphia and a graduate of Martin Luther King High School.</li>
                I’m currently expanding my skills in React 19, Python, JavaScript, building a strong foundation for a future career in the world of technology.
-                My goal is to develop secure, efficient systems that protect information, prevent threats, and contribute positively to the tech community.</li>
+                <li> My goal is to develop secure, efficient systems that protect information, prevent threats, and contribute positively to the tech community.</li>
             
             
             
